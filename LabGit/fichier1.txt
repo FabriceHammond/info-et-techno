@@ -1,1 +1,1 @@
-contenu du fichier1 alpha
+Contenu du fichier 1 dans la nouvelle branche
